@@ -1,0 +1,103 @@
+,State,Quarter,Lost
+0,California,Q1_16,255000
+1,California,Q2_16,104000
+2,California,Q3_16,76000
+3,California,Q4_16,149000
+4,California,Q1_17,200000
+5,California,Q2_17,108000
+6,California,Q3_17,82000
+7,California,Q4_17,205000
+8,California,Q1_18,195000
+9,California,Q2_18,90000
+10,California,Q3_18,67000
+11,California,Q4_18,155000
+12,California,Q1_19,215000
+13,California,Q2_19,110000
+14,California,Q3_19,73000
+15,California,Q4_19,170000
+16,California,Q1_20,176317
+17,Florida,Q1_16,42000
+18,Florida,Q2_16,35000
+19,Florida,Q3_16,36000
+20,Florida,Q4_16,37000
+21,Florida,Q1_17,40000
+22,Florida,Q2_17,29000
+23,Florida,Q3_17,25000
+24,Florida,Q4_17,41000
+25,Florida,Q1_18,30000
+26,Florida,Q2_18,35000
+27,Florida,Q3_18,39000
+28,Florida,Q4_18,50000
+29,Florida,Q1_19,39000
+30,Florida,Q2_19,56000
+31,Florida,Q3_19,30000
+32,Florida,Q4_19,43000
+33,Florida,Q1_20,39179
+34,North Dakota,Q1_16,620
+35,North Dakota,Q2_16,29000
+36,North Dakota,Q3_16,93000
+37,North Dakota,Q4_16,35000
+38,North Dakota,Q1_17,8500
+39,North Dakota,Q2_17,27000
+40,North Dakota,Q3_17,71000
+41,North Dakota,Q4_17,44000
+42,North Dakota,Q1_18,640
+43,North Dakota,Q2_18,16000
+44,North Dakota,Q3_18,48000
+45,North Dakota,Q4_18,26000
+46,North Dakota,Q1_19,3200
+47,North Dakota,Q2_19,23000
+48,North Dakota,Q3_19,59000
+49,North Dakota,Q4_19,29000
+50,North Dakota,Q1_20,-16753
+51,Texas,Q1_16,26000
+52,Texas,Q2_16,33000
+53,Texas,Q3_16,16500
+54,Texas,Q4_16,25000
+55,Texas,Q1_17,30000
+56,Texas,Q2_17,36000
+57,Texas,Q3_17,12000
+58,Texas,Q4_17,39000
+59,Texas,Q1_18,49000
+60,Texas,Q2_18,28000
+61,Texas,Q3_18,15000
+62,Texas,Q4_18,20000
+63,Texas,Q1_19,32000
+64,Texas,Q2_19,38000
+65,Texas,Q3_19,7500
+66,Texas,Q4_19,17000
+67,Texas,Q1_20,33384
+68,Georgia,Q1_16,14500
+69,Georgia,Q2_16,23000
+70,Georgia,Q3_16,13000
+71,Georgia,Q4_16,18000
+72,Georgia,Q1_17,15500
+73,Georgia,Q2_17,11000
+74,Georgia,Q3_17,13000
+75,Georgia,Q4_17,11000
+76,Georgia,Q1_18,14000
+77,Georgia,Q2_18,12500
+78,Georgia,Q3_18,15500
+79,Georgia,Q4_18,21000
+80,Georgia,Q1_19,25000
+81,Georgia,Q2_19,18000
+82,Georgia,Q3_19,17000
+83,Georgia,Q4_19,19500
+84,Georgia,Q1_20,200302
+85,United States,Q1_16,500020
+86,United States,Q2_16,352860
+87,United States,Q3_16,457100
+88,United States,Q4_16,412380
+89,United States,Q1_17,416100
+90,United States,Q2_17,329820
+91,United States,Q3_17,397290
+92,United States,Q4_17,502350
+93,United States,Q1_18,398650
+94,United States,Q2_18,285590
+95,United States,Q3_18,394810
+96,United States,Q4_18,424860
+97,United States,Q1_19,438030
+98,United States,Q2_19,355270
+99,United States,Q3_19,377120
+100,United States,Q4_19,444730
+101,United States,Q1_20,329904
